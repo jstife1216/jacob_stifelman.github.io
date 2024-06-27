@@ -7,3 +7,6 @@ theme: jekyll-theme-architect
 author: Jacob Stifelman
 email: jstifelman2@gmail.com
 github_username: jstifel1216
+
+header_pages:
+  - index.md
