@@ -12,5 +12,5 @@ header_pages:
   - index.md
   - about.md
 
-  include:
-    - assets/css/style.css
+include:
+  - assets/css/style.css
