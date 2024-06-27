@@ -1,0 +1,9 @@
+title: My Awesome Site
+description: >- # this means to ignore newlines until "baseurl:"
+  Welcome to my awesome website using the Architect theme.
+theme: jekyll-theme-architect
+
+# Optional settings
+author: Jacob Stifelman
+email: jstifelman2@gmail.com
+github_username: jstifel1216
