@@ -11,3 +11,6 @@ github_username: jstifel1216
 header_pages:
   - index.md
   - about.md
+
+  include:
+    - assets/css/style.css
